@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 import static java.lang.Math.abs;
@@ -264,18 +265,21 @@ public class Main {
                 double double3 = double1 / double2;
                 System.out.println(double3);//divide by Zero
 
-                Scanner scanner = new Scanner(System.in);
-                int score = scanner.nextInt();
 
-                if (score == 0) {
-                    System.out.println("Проигрыш");
-                } else if (score == 1) {
-                    System.out.println("Ничья");
-                } else if (score == 3) {
-                    System.out.println("Выигрыш");
-                } else {
-                    System.out.println("Неверный счет");
-                }//результат футбольного матча
+                Scanner scanner = new Scanner(System.in);
+                String score = scanner.nextLine();
+
+
+                    if (score.equalsIgnoreCase("0")) {
+                        System.out.println("Проигрыш");
+                    } else if (score.equalsIgnoreCase("1")) {
+                        System.out.println("Ничья");
+                    } else if (score.equalsIgnoreCase("3")) {
+                        System.out.println("Выигрыш");
+                    } else {
+                        System.out.println("Неверный счет");
+                    }
+                //результат футбольного матча
 
                 double lb = 1;
                 while (lb < 11) {
