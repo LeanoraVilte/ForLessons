@@ -278,16 +278,12 @@ public class Main {
                         System.out.println("Выигрыш");
                     } else {
                         System.out.println("Неверный счет");
-                    }
-                //результат футбольного матча
+                    }//результат футбольного матча
 
-                double lb = 1;
-                while (lb < 11) {
-                    double gr = lb * 453;
-                    double kilo = gr / 1000;
-                    System.out.println(lb + " фунт/а/ов равен/равно/равны " + kilo + " килограмм/а");
-                    lb++;
-                }
 
             }
-        }
+
+            }
+
+
+
