@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class Converter {public static void main(String[] ar
-    gs) {
+public class Converter {public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         while (true) {
             String st = s.nextLine();

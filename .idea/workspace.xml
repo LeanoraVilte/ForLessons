@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5cd4184-111a-44c4-8aa0-7be2b333a83a" name="Changes" comment="Innopolis1">
-      <change afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tyuur.java" afterDir="false" />
+    <list default="true" id="c5cd4184-111a-44c4-8aa0-7be2b333a83a" name="Changes" comment="Innopolis66776">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/newt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +41,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.newt">
-    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Converter" />
+  <component name="RunManager" selected="Application.Snail">
+    <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snail" />
       <module name="ForLessons" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
       <module name="ForLessons" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tyuur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tyuur" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test4" />
       <module name="ForLessons" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snail" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.test4" />
         <item itemvalue="Application.newt" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Converter" />
-        <item itemvalue="Application.tyuur" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663062536388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Innopolis66776">
+      <created>1665145707189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665145707189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +141,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Innopolis" />
     <MESSAGE value="Innopolis1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Innopolis1" />
+    <MESSAGE value="Innopolis66776" />
+    <option name="LAST_COMMIT_MESSAGE" value="Innopolis66776" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ForLessons$Main.ic" NAME="Main Coverage Results" MODIFIED="1663776536756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
