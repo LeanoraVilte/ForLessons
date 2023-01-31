@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5cd4184-111a-44c4-8aa0-7be2b333a83a" name="Changes" comment="Innopolis6677666">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankProcent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MariaQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bcrfd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashSet.java" afterDir="false" />
+    <list default="true" id="c5cd4184-111a-44c4-8aa0-7be2b333a83a" name="Changes" comment="Innopolis6677666кукуку">
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueArrayImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackEmptyMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opppp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcrfd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,24 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Кристина/IdeaProjects/Autotest&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Кристина/IdeaProjects/ForLessons",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;,
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.bcrfd">
     <configuration name="Piramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Piramide" />
@@ -124,7 +123,10 @@
       <workItem from="1674213059229" duration="2187000" />
       <workItem from="1674225431596" duration="45000" />
       <workItem from="1674395456219" duration="392000" />
-      <workItem from="1674473669203" duration="1542000" />
+      <workItem from="1674473669203" duration="1743000" />
+      <workItem from="1674475757750" duration="124000" />
+      <workItem from="1674828918162" duration="241000" />
+      <workItem from="1675148313105" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="Innopolis">
       <created>1663057249846</created>
@@ -161,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665342634547</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Innopolis6677666кукуку">
+      <created>1674475560294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674475560294</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +192,8 @@
     <MESSAGE value="Innopolis1" />
     <MESSAGE value="Innopolis66776" />
     <MESSAGE value="Innopolis6677666" />
-    <option name="LAST_COMMIT_MESSAGE" value="Innopolis6677666" />
+    <MESSAGE value="Innopolis6677666кукуку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Innopolis6677666кукуку" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ForLessons$Main.ic" NAME="Main Coverage Results" MODIFIED="1663776536756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
